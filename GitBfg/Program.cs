@@ -10,6 +10,7 @@ namespace GitBfg
             Console.WriteLine("Hello World Again!");
             Console.WriteLine("This is it!!");
             var x = 2 + 2;
+			var xy = 1 + 1;
             Console.WriteLine(x);
         }
     }
